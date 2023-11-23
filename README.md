@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahilMulik
 - 👀 I’m Interested In Software Engineering.
-- 🌱 I’m Currently Learning Java.
+- 🌱 I’m Currently Learning Web Development.
 - 📫 Twitter Account:- @sahil_mulik_
 
 <!---
